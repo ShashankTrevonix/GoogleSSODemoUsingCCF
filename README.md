@@ -1,6 +1,6 @@
 # google_signin_app_1
 
-A new Flutter project.
+Implimented Google SSO in flutter App using Client credential Flow (Client ID + Client secret)
 
 ## Getting Started
 
